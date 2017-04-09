@@ -1,4 +1,3 @@
 # Precalculus Paper
 
-My Precalculus Paper on the 12 Base Trignometric Graphs written in LaTeX.
-
+My Precalculus Paper on the 12 Base Trigonometric Graphs written in LaTeX.
